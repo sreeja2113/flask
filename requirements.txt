@@ -18,7 +18,7 @@ flatbuffers==23.3.3
 future==0.18.3
 gast==0.4.0
 gevent==22.10.2
-google-auth==2.17.2
+google-auth==1.6.3
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 gunicorn==20.0.4
