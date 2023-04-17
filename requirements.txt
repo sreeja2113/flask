@@ -16,7 +16,7 @@ Flask-Cors==3.0.10
 flask-ngrok==0.0.25
 flatbuffers==23.3.3
 future==0.18.3
-gast==0.4.0
+gast
 gevent==22.10.2
 google-auth==1.6.3
 google-auth-oauthlib==0.4.1
