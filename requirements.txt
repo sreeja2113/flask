@@ -62,10 +62,10 @@ scipy==1.8.1
 six==1.16.0
 SQLAlchemy==2.0.9
 sympy==1.11
-tensorboard==2.12.1
+tensorboard==2.2.0
 tensorboard-data-server==0.7.0
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.12.1
+tensorflow==2.2.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.2.0
 tldextract==3.4.0
